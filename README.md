@@ -4,7 +4,7 @@
 <p>For more information click  <a href="https://github.com/Navyn27" target="_blank">here</a></p>
 <!--<a href="https://github.com/patriicke" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriicke&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Programming%20Languages&hide=php,html,Less,SCSS,CSS" alt="Mostly used programming languages" /></a> -->
 <p>Let's have connection</p>
-<a target="_blank" href="https://www.linkedin.com/in/ndayambaje-patrick-90737022b/">
+<a target="_blank" href="https://www.linkedin.com/in/yvan-sugira-592a14232/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/sugirayvan/">
@@ -16,7 +16,7 @@
 <a target="_blank" href="mailto:yvanishimwesugira@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100076022093184">
+<a target="_blank" href="https://twitter.com/SugiraYvan">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </br>
