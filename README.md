@@ -19,9 +19,9 @@
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100076022093184">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<br>
-<ul>
+</br>
 <p>My interests are in</p>
+<ul>
 <li>Data Structures and Algorithms</li>
 <li>Data Science and Artificial Intelligence</li>
 <li>Embedded Systems</li>
