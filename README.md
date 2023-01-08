@@ -19,6 +19,7 @@
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100076022093184">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<br>
 <ul>
 <p>My interests are in</p>
 <li>Data Structures and Algorithms</li>
